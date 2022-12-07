@@ -1,7 +1,7 @@
 
 ## <p align="center">👋 Hi, I’m @Dahdo</p>
-<p>🌱 I’m currently doing my bachelors in Computer Science</p>
-<p>👀 I’m interested in Android & Web Development</p>
+<p>🌱 Currently doing my bachelors in Computer Science</p>
+<p>👀 With interest in Android & Web Development</p>
   
 ### Languages:
 <a href="#">                        <img src="res/java.png" height=30px>      **Java**     </a> &nbsp;&nbsp;&nbsp;
