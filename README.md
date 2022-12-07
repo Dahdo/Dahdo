@@ -1,5 +1,5 @@
 
-## <p align="center">👋 Hi, I’m @Dahdo</p>
+## <p align="center">👋 Hi, I’m @Dahdo [Daniel Ndashimye]</p>
 <p>🌱 Currently doing my bachelors in Computer Science</p>
 <p>👀 With interest in Android & Web Development</p>
   
