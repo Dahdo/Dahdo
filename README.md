@@ -1,7 +1,7 @@
 
 ## <p align="center">👋 Hi, I’m @Dahdo [Daniel Ndashimye]</p>
 <p>🌱 Currently doing my bachelors in Computer Science</p>
-<p>👀 With interest in Android & Web Development</p>
+<p>👀 With interests in Android & Web Development</p>
   
 ### Languages:
 <a href="https://www.java.com/en/"><img src="res/java.png" height=30px>      **Java**     </a> &nbsp;&nbsp;&nbsp;
