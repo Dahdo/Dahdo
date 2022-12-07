@@ -5,7 +5,7 @@
   
 ### Languages:
 <a href="#">                        <img src="res/java.png" height=30px>      **Java**     </a> &nbsp;&nbsp;&nbsp;
-<a href="#">                        <img src="res/cshar.png" height=30px>      **C#**     </a> &nbsp;&nbsp;&nbsp;
+<a href="#">                        <img src="res/csharo.png" height=30px>      **C#**     </a> &nbsp;&nbsp;&nbsp;
 <a href="#">                        <img src="res/cpp.png" height=30px>      **C++**     </a> &nbsp;&nbsp;&nbsp;
 <a href="#">                        <img src="res/c.png" height=30px>      **C**     </a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.gnu.org/software/bash/">             <img src="res/bash.png" height=30px>        **bash**       </a> &nbsp;&nbsp;&nbsp;
