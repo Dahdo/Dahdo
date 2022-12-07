@@ -1,10 +1,10 @@
-<!--
+
 ## <p align="center">👋 Hi, I’m @Dahdo</p>
 <p>🌱 I’m currently doing my bachelors in Computer Science</p>
 <p>👀 I’m interested in Android & Web Development</p>
   
 ### Languages:
-<a href="#">                        <img src="img/java.svg" height=30px>      **Java**     </a> &nbsp;&nbsp;&nbsp;
+<a href="#">                        <img src="res/java.png" height=30px>      **Java**     </a> &nbsp;&nbsp;&nbsp;
 <a href="#">                        <img src="img/csharp.svg" height=30px>      **C#**     </a> &nbsp;&nbsp;&nbsp;
 <a href="#">                        <img src="img/cpp.svg" height=30px>      **C++**     </a> &nbsp;&nbsp;&nbsp;
 <a href="#">                        <img src="img/c.svg" height=30px>      **C**     </a> &nbsp;&nbsp;&nbsp;
@@ -18,4 +18,3 @@
 ### Clouds:
 <a href="https://azure.microsoft.com/en-us/"> <img src="img/azure.svg" height=30px> **Azure**   </a> &nbsp;&nbsp;&nbsp;
 <a href="https://cloud.google.com/">          <img src="img/gcp.svg" height=30px>   **Google**  </a>
----->
