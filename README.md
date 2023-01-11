@@ -17,4 +17,4 @@
 
 ### Clouds:
 <a href="https://azure.microsoft.com/en-us/"> <img src="res/azure.png" height=30px> **Azure**   </a> &nbsp;&nbsp;&nbsp;
-<a href="https://cloud.google.com/">          <img src="res/googlecloud.png" height=30px>   **Google**  </a>
+<a href="https://cloud.google.com/">          <img src="res/googlecloud.png" height=30px>   **Google Cloud**  </a>
