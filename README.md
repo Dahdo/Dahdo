@@ -9,7 +9,7 @@
 <a href="https://isocpp.org"><img src="res/cpp.png" height=30px>      **C++**     </a> &nbsp;&nbsp;&nbsp;
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="res/c.png" height=30px>      **C**     </a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.gnu.org/software/bash/"><img src="res/bash.png" height=30px>        **bash**       </a> &nbsp;&nbsp;&nbsp;
-<a href="https://learn.microsoft.com/en-us/powershell/">  <img src="res/powershell.png" height=30px>  **powershell** </a>
+<a href="https://learn.microsoft.com/en-us/powershell/">  <img src="res/powershell.png" height=30px>  **PowerShell** </a>
 
 ### Platforms:
 <a href="https://www.android.com/"><img src="res/android.png" height=30px>      **Android**     </a>
