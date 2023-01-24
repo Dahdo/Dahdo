@@ -5,6 +5,7 @@
   
 ### Languages:
 <a href="https://www.java.com/en/"><img src="res/java.png" height=30px>      **Java**     </a> &nbsp;&nbsp;&nbsp;
+<a href="https://kotlinlang.org/"><img src="res/kotlin.png" height=30px>      **Kotlin**     </a> &nbsp;&nbsp;&nbsp;
 <a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img src="res/csharo.png" height=30px>      **C#**     </a> &nbsp;&nbsp;&nbsp;
 <a href="https://isocpp.org"><img src="res/cpp.png" height=30px>      **C++**     </a> &nbsp;&nbsp;&nbsp;
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="res/c.png" height=30px>      **C**     </a> &nbsp;&nbsp;&nbsp;
