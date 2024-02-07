@@ -3,6 +3,7 @@
 <p>🌱 Currently doing my bachelors in Computer Science</p>
   
 ### Languages:
+<a href="https://www.python.org/"><img src="res/python.png" height=30px>      **Python**     </a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.java.com/en/"><img src="res/java.png" height=30px>      **Java**     </a> &nbsp;&nbsp;&nbsp;
 <a href="https://kotlinlang.org/"><img src="res/kotlin.png" height=30px>      **Kotlin**     </a> &nbsp;&nbsp;&nbsp;
 <a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img src="res/csharo.png" height=30px>      **C#**     </a> &nbsp;&nbsp;&nbsp;
